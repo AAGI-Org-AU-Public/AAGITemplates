@@ -1,8 +1,9 @@
 # AAGITemplates
 
 <!--Badges... -->
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![package version](https://img.shields.io/badge/package%20version-0.6.0-80b6ff.svg)](/DESCRIPTION)
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+
+(**Note:** This repository is archived, and has been superseded by the newer, focused AAGI template repositories, i.e., [AAGIQuarto](https://github.com/AAGI-AUS/AAGIQuarto), [AAGIOfficeTemplates](https://github.com/AAGI-AUS/AAGIOfficeTemplates), [AAGILaTeXTemplates](https://github.com/AAGI-AUS/AAGILaTeXTemplates) and [AAGIRmarkdown](https://github.com/AAGI-AUS/AAGIRmarkdown).)
 
 Rmarkdown, LaTeX and Knitr reporting templates for AAGI staff.
 
